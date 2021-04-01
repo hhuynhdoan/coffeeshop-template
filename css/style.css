@@ -43,18 +43,18 @@ nav{
 	font-size: 0.9rem; 
 }
 .social a:hover{
-	color: #0b9d8a;
+	color: #fdcb6e;
 	transform: all ease 0.2s;
 }
 .navigation{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 0px 45px;
+	padding: 0px 35px;
 
 }
 .logo img{
-	height: 180px;
+	height: 100px;
 }
 .menu{
 	display: flex;
@@ -82,7 +82,7 @@ nav{
 .search-cancel:hover,
 .form-cancel:hover{
 	transform: all ease 0.2s;
-	color: #0b9d8a;
+	color: #fdcb6e;
 
 }
 
@@ -126,7 +126,7 @@ nav{
 	height: 25px;
 	font-size: 0.8rem;
 	border-radius: 50%;
-	background-color: #0b9d8a;
+	background-color: #fdcb6e;
 	color: #ffffff;
 	display: flex;
 	justify-content: center;
@@ -252,7 +252,7 @@ nav{
 }
 .login-form input[type="submit"],
 .sign-up-form input[type="submit"]{
-	background-color: #0b9d8a;
+	background-color: #fdcb6e;
 	color: #ffffff;
 	border:  none;
 	outline: none;
@@ -331,16 +331,16 @@ nav{
 
 }
 .f-slider-1{
-	background-image: url('../images/slider_1.PNG');
+	background-image: url('../images/slider_1.jpg');
 }
 .f-slider-2{
-	background-image: url('../images/slider_3.PNG');
+	background-image: url('../images/silder_2.jpg');
 }
 .f-slider-3{
-	background-image: url('../images/slider_1.PNG');
+	background-image: url('../images/slider_3.jpg');
 }
 .f-slider-4{
-	background-image: url('../images/slider_3.PNG');
+	background-image: url('../images/Slider_4.jpg');
 }
 
 .slider-text-container,
@@ -359,7 +359,7 @@ nav{
 }
 .f-slider-text strong,
 .banner-text strong{
-	color: #333333;
+	color: #ffeaa7;
 	font-size: 3.5rem;
 	line-height: 66px;
 	margin-top: 10px;
@@ -384,7 +384,7 @@ nav{
 	justify-content: center;
 	align-items: center;
 	color: #ffffff;
-	background-color: #0b9d8a;
+	background-color: #fdcb6e;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	margin-top: 10px;
@@ -393,7 +393,7 @@ nav{
 .f-slider-text strong font,
 .banner-text strong font{
 	color: #ffffff;
-	background-color: #0b9d8a;
+	background-color: #e17055;
 }
 .feature-heading{
 	display: flex;
@@ -530,7 +530,7 @@ nav{
 	justify-content: center;
 	align-items: center;
 	color: #ffffff;
-	background-color: #0b9d8a;
+	background-color: #fdcb6e;
 	box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.1);
 	display: none;
 	animation: fade 0.3s;
@@ -622,7 +622,7 @@ nav{
 }
 
 .service-box i{
-	color: #0b9d8a;
+	color: #fdcb6e;
 	font-size: 2rem;
 	margin: 15px;
 }
@@ -662,7 +662,7 @@ footer{
 }
 .subscribe input[type="submit"]{
 	width: 120px;
-	background-color: #0b9d8a;
+	background-color: #fdcb6e;
 	color: #ffffff;
 	margin: 0px 5px;
 }
@@ -696,7 +696,7 @@ footer{
         top: 110px;
         left: 0px;
         background-color: #ffffff;
-        border-bottom: 4px solid #0b9d8a;
+        border-bottom: 4px solid #fdcb6e;
         width: 100%;
         padding: 0px;
         margin: 0px;
